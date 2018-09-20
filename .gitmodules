@@ -1,0 +1,6 @@
+[submodule "shop"]
+	path = shop
+	url = git@github.com:Xiaobin0860/leshare-shop-wepy.git
+[submodule "seller"]
+	path = seller
+	url = git@github.com:Xiaobin0860/leshare-seller-wepy.git
